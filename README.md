@@ -1,9 +1,9 @@
 # Bannerlord Flora Tool
 This is a tool which edits painted flora of a Mount & Blade II: Bannerlord scene.
 
-That is the flora placed by "Paint Flora" which is saved to `flora.bin`.
+The painted flora is that which is placed by "Paint Flora" and is saved to `flora.bin`.
 
-It was initially develop with the Bannerlord version `1.8.0`, but I expect it to work for scenes of practically all versions.
+This tool was initially developed with Bannerlord version `1.8.0`, but I expect it to work for scenes of practically all versions.
 
 ## Features
 Current functionality is limited to moving all flora by a given offset.
